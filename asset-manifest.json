@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robotsearch/static/css/main.90d0fadb.css",
+    "main.js": "/robotsearch/static/js/main.f0cdf069.js",
+    "static/js/787.4acbe8eb.chunk.js": "/robotsearch/static/js/787.4acbe8eb.chunk.js",
+    "static/media/SilverFalcon-OVl38.woff": "/robotsearch/static/media/SilverFalcon-OVl38.b07242e302cc9e458532.woff",
+    "index.html": "/robotsearch/index.html",
+    "main.90d0fadb.css.map": "/robotsearch/static/css/main.90d0fadb.css.map",
+    "main.f0cdf069.js.map": "/robotsearch/static/js/main.f0cdf069.js.map",
+    "787.4acbe8eb.chunk.js.map": "/robotsearch/static/js/787.4acbe8eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90d0fadb.css",
+    "static/js/main.f0cdf069.js"
+  ]
+}
