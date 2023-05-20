@@ -3,6 +3,7 @@ import 'tachyons';
 import SearchBar from './search';
 import CardList from './cardList';
 import { useEffect, useState } from 'react';
+import Footer from './Footer';
 
 function App() {
   const [Robots,setRobots] = useState([]);
@@ -26,7 +27,8 @@ function App() {
       <div className='tc'>
       <SearchBar onChangeSearch = {handleSearchChange}/>
       <CardList Robots={popingRobots}/>
-      </div>     
+      </div>    
+      <Footer/> 
     </div>
   );
 }
